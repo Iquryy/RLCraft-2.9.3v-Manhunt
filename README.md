@@ -7,7 +7,7 @@ Download this zip, go to your RLCraft insall location and unzip it inside the ma
 Summary:
 The goal of this is to recreate Manhunt Gamemode into RLCraft with changes focusing on making the whole speedrunning process faster.
  
-Features:
+# Features
 
 # Lycanites
 Underground cave lycanite mob spawn rates have been greatly reduced. (Doesn't include being in darkness)
