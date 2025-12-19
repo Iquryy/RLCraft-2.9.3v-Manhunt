@@ -25,8 +25,11 @@ Expierience gain multiplier is now 3x on top of RLCrafts 2x. So 6x more from van
 
 # Added Mods
 Morpheus (sleeping mod)
+
 RLCraft Manhunt (hunters and runners with little game logic)
+
 Amphithere Mod (adds stamina to amphitheres)
+
 Savemystronghold (to save strongholds)
 
 # Some Important Things
