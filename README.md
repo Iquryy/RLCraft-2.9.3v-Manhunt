@@ -38,8 +38,6 @@ Morpheus (sleeping mod)
 
 RLCraft Manhunt (hunters and runners with little game logic)
 
-Amphithere Mod (adds stamina to amphitheres)
-
 Savemystronghold (to save strongholds)
 
 # Some Important Things
