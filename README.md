@@ -3,6 +3,7 @@ HOW TO INSTALL:
 
 Download this zip, go to your RLCraft insall location and unzip it inside the main RLCraft directory. Then you need to agree on every asked overwrite to make this work correctly. You should make a new 2.9.3 RLCraft profile for this.
 
+Download: https://github.com/Iquryy/RLCraft-2.9.3v-Manhunt/releases/download/minecraft/RLCraft-2.9.3v-Manhunt.zip
 
 Summary:
 The goal of this is to recreate Manhunt Gamemode into RLCraft with changes focusing on making the whole speedrunning process faster.
